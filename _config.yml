@@ -1,7 +1,7 @@
-site: Sidey
+site: Grateful Blog
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: The Grateful Blog
+description: Thoughts on the Dead.
 twitter:
   username: #yourusername
   card: summary
@@ -40,7 +40,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /:year/:month/:day/:slug
+    permalink: /post/:slug
   
 defaults:
   -
