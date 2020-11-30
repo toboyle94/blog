@@ -1,21 +1,22 @@
-# Sidey
+# Late Bus
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Simple jekyll blog forked from (sidey)[https://github.com/ronv/sidey]
 
-### Features
+## Local development
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+Using `rbenv` to manage ruby version is helpful. Run the following to ensure the current shell
+is using the ruby version specified by `rbenv`:
+```
+rbenv init
+```
+
+To run the site locally use:
+```
+bundle exec jekyll serve
+```
+
+## Deploying the site
+
+Netlify is configured to build and deploy the site whenever there is a new commit to the
+`master` branch of this git repo. To deploy a new set of changes to the site, either merge
+a PR into `master`, or commit to `master` and push to git.
