@@ -106,7 +106,7 @@ blockquote {
 h1,h2,h3,h4,h5 {
 	line-height: 1;
 	margin: 1rem 0;
-	font-weight: 600;
+	font-weight: 500;
 }
 
 section h1:first-child {
@@ -199,4 +199,18 @@ section {
 
 figcaption {
     font-size: smaller;
+}
+
+.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+.navbar-text {
+	font-size: larger;
+}
+
+.navbar-text li {
+	margin: 10px;
 }
