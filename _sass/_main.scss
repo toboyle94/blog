@@ -38,8 +38,8 @@ pre {
 	margin: 1rem 0;
 }
 
-.post h2:first-child, .project h2:first-child, .photo h2:first-child {
-	margin-top: 0;
+.post h2 {
+	padding-top: 2rem;
 }
 
 .meta {
@@ -151,10 +151,6 @@ strong, b {
 	padding-left: 1rem;
 	white-space: nowrap;
 	font-variant-numeric: tabular-nums;
-}
-
-.post ul, .project ul, .post ol  {
-	//list-style-position: inside;
 }
 
 main {

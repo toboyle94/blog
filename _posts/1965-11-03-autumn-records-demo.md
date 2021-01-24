@@ -49,8 +49,7 @@ tags: []
 |The Only Time Is Now&nbsp;&nbsp;&nbsp;&nbsp;|   2:24   | (Garcia / Kreutzmann / Lesh / McKernan / Weir)|
 |Caution                |   3:17   | (Garcia / Kreutzmann / Lesh / McKernan / Weir)|
 |I Know You Rider       |   2:41   | (Traditional) [cover]|
-|Early Morning Rain     |   3:22   | (Gordon Lightfoot) [cover]|
-
+|Early Morning Rain     |   3:22   | (Gordon Lightfoot) [cover]|  
 
 ## LINEUP
 
@@ -64,10 +63,7 @@ Bill Kreutzmann: Drums|
 
 Golden State Studios, San Francisco.
 
-So the context here is the Emergency Crew, neé the Warlocks and not quite yet the Grateful Dead, demoing their stuff for Autumn Records at Golden State Studios in San Francisco. 
-
-
-
+So the context here is the Emergency Crew, neé the Warlocks and not quite yet the Grateful Dead, demoing their stuff for Autumn Records at Golden State Studios in San Francisco.
 
 ## JUST ONE MAN'S THOUGHTS
 
