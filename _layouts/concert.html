@@ -3,29 +3,23 @@ layout: default
 ---
 
 <section class="post">
-    <h4>Venue:</h4>
-    <span>{{page.venue}}</span>
-    <h4>Date:</h4>
-    <span>{{ page.show_date | date: "%B %-d, %Y" }}</span>
-    <h4>Recording:</h4>
-    <h4>Setlist:</h4>
-    {% assign setlist_midway = page.setlist.size | divided_by: 2.0 | ceil %}
-    <div style="display: flex;">
-        <div style="flex: 40%; border-right: 1px grey solid;">
-            {% for song in page.setlist limit:setlist_midway%}
-                <div><a href="{{song.source}}" target="_blank">{{song.song}}</a></div>
-            {% endfor %}
-        </div>
-        <div style="flex: 50%; padding-left: 10%;">
-            {% for song in page.setlist offset:setlist_midway%}
-                <div><a href="{{song.source}}" target="_blank">{{song.song}}</a></div>
-            {% endfor %}
-        </div>
-    </div>
-    <h4>Our thoughts:</h4>
+    <h1 style="margin-bottom: 30px;">{{page.title}}</h1>
+
+    <iframe src="{{page.recording}}" width="500" height="50" frameborder="0"
+    webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+    Show recording (courtesy of archive.org)
     {{page.content}}
-    <h4>Community thoughts:</h4>
+    <h2>OTHER TALKING HEADS</h2>
     <div>
+        {% for obj in page.community_thoughts %}
+        <div class="comments">
+            <div>{{obj.comment}}</div>
+            - {{obj.user}}
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- <div>
         {% assign comments_midway = page.community_thoughts.size | divided_by: 2.0 | ceil %}
         <div style="display: flex;">
             <div style="flex: 40%;">
@@ -45,5 +39,5 @@ layout: default
                 {% endfor %}
             </div>
         </div>
-    </div>
+    </div> -->
 </section>
