@@ -30,6 +30,10 @@ pre {
 	padding: .5rem;
 }
 
+section.post {
+	margin: 0 2em;
+}
+
 .post p {
 	margin: .5rem 0;
 }
@@ -156,7 +160,7 @@ strong, b {
 main {
 	display:flex;
 	flex-wrap:wrap;
-	max-width:70rem;
+	max-width:65rem;
 	margin:2rem auto;
 	padding:1rem;
 }
