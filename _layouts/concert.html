@@ -4,14 +4,14 @@ layout: default
 
 <section class="post">
     <h1 style="margin-bottom: 30px;">
-        {{page.title}}
-        <span>
+        <div>
             <span style="color: crimson;">{{ page.date | date: "%m" }}</span>
             -
             <span style="color: white;" class="text-outline">{{ page.date | date: "%d" }}</span>
             -
             <span style="color: cornflowerblue;">{{ page.date | date: "%Y" }}</span>
-        </span>
+        </div>
+        {{page.title}}
     </h1>
 
     <iframe src="{{page.recording}}" width="500" height="50" frameborder="0"
