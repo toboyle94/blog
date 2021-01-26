@@ -90,4 +90,4 @@ I’ll leave the history lesson to the experts, but San Francisco in the 1960’
 
 If you’re curious about other bands in the San Francisco scene in the 60’s, here’s a playlist with a song from just a few bands. Check them out, and don’t be afraid to dig in!
 
-<iframe src="https://open.spotify.com/embed/playlist/1VwehdJ3DtzEDyChnTuNrS" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<!-- <iframe src="https://open.spotify.com/embed/playlist/1VwehdJ3DtzEDyChnTuNrS" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> -->
