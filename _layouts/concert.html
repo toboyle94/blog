@@ -2,18 +2,7 @@
 layout: default
 ---
 
-<section class="post title">
-    <h1 style="margin-bottom: 30px;">
-        <div>
-            <span class="rainbow1">{{ page.date | date: "%m" }}</span>
-            <span class="rainbow2">-</span>
-            <span class="rainbow3">{{ page.date | date: "%d" }}</span>
-            <span class="rainbow4">-</span>
-            <span class="rainbow5">{{ page.date | date: "%Y" }}</span>
-        </div>
-        {{page.title}}
-    </h1>
-
+<section class="post">
     <iframe src="{{page.recording}}" width="500" height="50" frameborder="0"
     webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
     Show recording (courtesy of archive.org)
