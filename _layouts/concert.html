@@ -19,14 +19,18 @@ layout: default
     Show recording (courtesy of archive.org)
     {{page.content}}
     <!-- <h2>OTHER TALKING HEADS</h2> -->
-    <div style="text-align: center; padding-top: 3rem; margin-bottom: -2rem;">
+    <div style="text-align: center; padding-top: 3rem;">
         <img src="/assets/img/deadheads_around_the_web.png" alt="the logo" width="400">
     </div>
     <div style="margin: auto;">
         {% for obj in page.community_thoughts %}
-        <div class="comments">
-            <div>{{obj.comment}}</div>
-            - {{obj.user}}
+        <div>
+            <div class="comments">
+                <div>{{obj.comment}}</div>
+            </div>
+            <div style="text-align: right; font-size: large;">
+                - {{obj.user}}
+            </div>
         </div>
         {% endfor %}
     </div>
