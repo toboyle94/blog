@@ -1,3 +1,25 @@
+$highlight1: #94c2e4;
+$highlight2: #f13710;
+$highlight3: #057fe2;
+$highlight4: #fffbf8;
+$highlight5: #30322d;
+
+.highlight1 {
+	color: $highlight1;
+}
+.highlight2 {
+	color: $highlight2;
+}
+.highlight3 {
+	color: $highlight3;
+}
+.highlight4 {
+	color: $highlight4;
+}
+.highlight5{
+	color: $highlight5;
+}
+
 *,:after,:before {
 	box-sizing:border-box;
 	background-color:inherit;
@@ -7,12 +29,16 @@
 }
 
 body {
-	font-family: system-ui, sans-serif;
+	font-family: system-ui, serif;
 	-webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 	line-height:1.5;
 	font-size: 1rem;
-	color: rgb(22, 23, 26);
+	color: $highlight5;
+}
+
+body h1, h2, h3, h4, h5, h6 {
+	font-family: system-ui, sans-serif;
 }
 
 nav ul {
@@ -36,6 +62,7 @@ section.post {
 
 .post p {
 	margin: .5rem 0;
+	color: $highlight5;
 }
 
 .post h1, .post h2, .post h3, .post h4 {
@@ -110,7 +137,7 @@ blockquote {
 h1,h2,h3,h4,h5 {
 	line-height: 1;
 	margin: 1rem 0;
-	font-weight: 500;
+	font-weight: 600;
 }
 
 section h1:first-child {
@@ -211,4 +238,5 @@ figcaption {
 .navbar-text li {
 	margin: 10px;
 	font-size: larger;
+	font-family: system-ui, sans-serif;
 }
