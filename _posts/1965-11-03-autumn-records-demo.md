@@ -45,12 +45,12 @@ tags: []
 ## SETLIST
 
 |---|:---:|---|
-|Can’t Come Down        |   3:04&nbsp;&nbsp;&nbsp;&nbsp;|(Garcia / Kreutzmann / Lesh / McKernan / Weir)&nbsp;&nbsp;|
-|Mindbender             |   2:41   | (Garcia/Lesh)|
-|The Only Time Is Now&nbsp;&nbsp;&nbsp;&nbsp;|   2:24   | (Garcia / Kreutzmann / Lesh / McKernan / Weir)|
-|Caution                |   3:17   | (Garcia / Kreutzmann / Lesh / McKernan / Weir)|
-|I Know You Rider       |   2:41   | (Traditional) [cover]|
-|Early Morning Rain     |   3:22   | (Gordon Lightfoot) [cover]|  
+|Can’t Come Down        |   3:04&nbsp;&nbsp;&nbsp;&nbsp;|
+|Mindbender             |   2:41   |
+|The Only Time Is Now&nbsp;&nbsp;&nbsp;&nbsp;|   2:24   |
+|Caution                |   3:17   |
+|I Know You Rider       |   2:41   |
+|Early Morning Rain     |   3:22   |
 
 {:.rainbow2}
 ## LINEUP
