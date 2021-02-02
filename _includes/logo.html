@@ -1,17 +1,10 @@
 <div style="width: 100%; margin-top: -50px;">
     <div style="text-align: center;">
+    <div>
         <img src="/assets/img/header.png" alt="the logo" width="250">
-        <h1 style="margin-bottom: 30px;">
-            {{page.title}}
-            {% if page.date %}                
-                <div>
-                    <span>{{ page.date | date: "%m" }}</span>
-                    <span class="highlight3">-</span>
-                    <span>{{ page.date | date: "%d" }}</span>
-                    <span class="highlight2">-</span>
-                    <span>{{ page.date | date: "%Y" }}</span>
-                </div>
-            {% endif %}
-        </h1>
+    </div>
+        {% if page.date_header_filename %}                
+            <img src="/assets/img/{{page.date_header_filename}}" alt="setlist header" width="600">
+        {% endif %}
     </div>
 </div>

@@ -1,10 +1,10 @@
 ---
 layout: concert
-title: Autumn Records Demo
 comments: true
 show_date: 11/3/1965
 venue:
 recording: https://archive.org/embed/gd65-11-03.sbd.vernon.9044.sbeok.shnf
+date_header_filename: 11-3-65header.png
 community_thoughts:
     -
         comment: This is fascinating from a historical perspective, but the music isn't something I'd want to listen to repeatedly. I don't know what I'd have thought if I'd heard this back in 1965, but in 2018, it sounds primitive, like a high school band who wrote a few songs and are messing around with them. It's hard to believe that these kids evolved into the amazing entity we know as The Grateful Dead.
