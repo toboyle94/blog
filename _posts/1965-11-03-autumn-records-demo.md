@@ -42,6 +42,22 @@ tags: []
 ---
 
 {:.highlight3}
+## VENUE & SCENE 
+
+Golden State Studios, San Francisco.
+
+So the context here is the Emergency Crew, neé the Warlocks and not quite yet the Grateful Dead, demoing their stuff for Autumn Records at Golden State Studios in San Francisco.
+
+{:.highlight2}
+## LINEUP
+
+|__Jerry Garcia:__|Lead guitar, vocals|
+|__Bob Weir:__|Rhythm guitar, vocals|
+|__Phil Lesh:__|Bass, vocals|
+|__Ron "Pigpen" McKernan:__&nbsp;&nbsp;&nbsp;|Organ, harmonica, vocals|
+|__Bill Kreutzmann:__|Drums|
+
+{:.highlight3}
 ## SETLIST
 
 |---|:---:|---|
@@ -52,21 +68,6 @@ tags: []
 |I Know You Rider       |   2:41   |
 |Early Morning Rain     |   3:22   |
 
-{:.highlight2}
-## LINEUP
-
-Jerry Garcia: Lead guitar, vocals|
-Bob Weir: Rhythm guitar, vocals|
-Phil Lesh: Bass, vocals|
-Ron "Pigpen" McKernan: Organ, harmonica, vocals|
-Bill Kreutzmann: Drums|
-
-{:.highlight3}
-## VENUE & SCENE 
-
-Golden State Studios, San Francisco.
-
-So the context here is the Emergency Crew, neé the Warlocks and not quite yet the Grateful Dead, demoing their stuff for Autumn Records at Golden State Studios in San Francisco.
 
 {:.highlight2}
 ## JUST ONE MAN'S THOUGHTS
