@@ -3,10 +3,13 @@ layout: default
 ---
 
 <section class="post">
-
+    {% if page.date_header_filename %}
+        <img src="/assets/img/{{page.date_header_filename}}" alt="setlist header" class="post-header">
+    {% endif %}
     <div>
-        <iframe src="{{page.recording}}&playlist=1&autoplay=1" width="500"
-        height="150" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        <iframe class="playlist" src="{{page.recording}}&playlist=1&autoplay=1" width="350"
+        height="150" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true"
+        allowfullscreen></iframe>
     </div>
     Show recording (courtesy of archive.org)
 
