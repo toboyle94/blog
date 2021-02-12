@@ -41,14 +41,14 @@ community_thoughts:
 tags: []
 ---
 
-{:.highlight3}
+{:.highlight1}
 ## VENUE & SCENE 
 
 Golden State Studios, San Francisco.
 
 So the context here is the Emergency Crew, neé the Warlocks and not quite yet the Grateful Dead, demoing their stuff for Autumn Records at Golden State Studios in San Francisco.
 
-{:.highlight2}
+{:.highlight3}
 ## LINEUP
 
 |__Jerry Garcia:__|Lead guitar, vocals|
@@ -57,7 +57,7 @@ So the context here is the Emergency Crew, neé the Warlocks and not quite yet t
 |__Ron "Pigpen" McKernan:__&nbsp;&nbsp;&nbsp;|Organ, harmonica, vocals|
 |__Bill Kreutzmann:__|Drums|
 
-{:.highlight3}
+{:.highlight6}
 ## SETLIST
 
 |---|:---:|---|
@@ -69,7 +69,7 @@ So the context here is the Emergency Crew, neé the Warlocks and not quite yet t
 |Early Morning Rain     |   3:22   |
 
 
-{:.highlight2}
+{:.highlight7}
 ## JUST ONE MAN'S THOUGHTS
 
 **“Can’t Come Down”** sounds a heck of a lot like a couple of kids trying to emulate Bob Dylan’s **“Subterranean Homesick Blues”** and a little bit of 60’s Rolling Stones, which they covered as a bar band. And rhyming streets / sheets / feet / treats / me / eat / sweet...at / that / cat / bat / flat / fat / hat...grip / slip / trip / ship / sip / flip / nip...sees / trees / seas / me’s / freeze / ease / fees...hints of Dr. Seuss in Jerry’s rap. It’s fun! This one was only played once or twice live, so enjoy it here.
@@ -84,7 +84,7 @@ This **“I Know You Rider”** makes me smile. Simple and toned-down, but still
 
 I think it’s a shame **“Early Morning Rain”** didn’t stay in their rotation longer, because this is a real beautiful tune with potential for jams... Still, beautiful to see the band taking a folk song and making it their own.
 
-{:.highlight3}
+{:.highlight8}
 ## SAN FRANCISCO SOUND
 
 I’ll leave the history lesson to the experts, but San Francisco in the 1960’s was a real breeding ground for groovy American music and overall creative energy—you know, hippies.. If you want a good read, check out [Hunter S. Thompson for the New York Times on the “Hashbury,”](https://londonflowscreedinfo.wordpress.com/2017/07/20/the-hashbury-is-the-capital-of-the-hippies-hst-1967-2/) or Haight-Ashbury district.
