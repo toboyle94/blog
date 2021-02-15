@@ -9,22 +9,22 @@ $highlight7: #ccb846;
 $highlight8: #cc2e2e;
 
 
-.highlight1 {
+.underline-highlight1 {
     border-bottom: 2px solid $highlight1;
 }
-.highlight2 {
+.underline-highlight2 {
     border-bottom: 2px solid $highlight2;
 }
-.highlight3 {
+.underline-highlight3 {
     border-bottom: 2px solid $highlight3;
 }
-.highlight6 {
+.underline-highlight6 {
     border-bottom: 2px solid $highlight6;
 }
-.highlight7 {
+.underline-highlight7 {
     border-bottom: 2px solid $highlight7;
 }
-.highlight8 {
+.underline-highlight8 {
     border-bottom: 2px solid $highlight8;
 }
 
@@ -51,7 +51,7 @@ body h1, h2, h3, h4, h5, h6 {
 }
 
 nav ul {
-    border-right: 2px solid $highlight2;
+    border-right: 1.5px solid $highlight5;
 }
 
 a {
