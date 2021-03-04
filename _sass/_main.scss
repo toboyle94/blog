@@ -202,8 +202,9 @@ main {
 }
 
 .post-header {
-    width: 600px;
+    width: 500px;
     margin-bottom: 32px;
+    margin-left: 2em;
 }
 
 @media screen and (max-width: 600px) {
@@ -246,7 +247,7 @@ main {
         display: inline-flex;
     }
     .post-header {
-        width: 600px;
+        width: 500px;
         max-width: 80vw;
         margin: auto;
         margin-bottom: 32px;

@@ -4,7 +4,9 @@ layout: default
 
 <section class="post">
     {% if page.date_header_filename %}
-        <img src="/assets/img/{{page.date_header_filename}}" alt="setlist header" class="post-header">
+        <div class="post-header">
+            <img src="/assets/img/{{page.date_header_filename}}" alt="setlist header">
+        </div>
     {% endif %}
     <div>
         <iframe class="playlist" src="{{page.recording}}&playlist=1&autoplay=1" width="350"
