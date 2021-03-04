@@ -6,38 +6,14 @@ venue:
 recording: https://archive.org/embed/gd65-11-03.sbd.vernon.9044.sbeok.shnf
 date_header_filename: 11-3-65header.png
 community_thoughts:
-    -
-        comment: This is fascinating from a historical perspective, but the music isn't something I'd want to listen to repeatedly. I don't know what I'd have thought if I'd heard this back in 1965, but in 2018, it sounds primitive, like a high school band who wrote a few songs and are messing around with them. It's hard to believe that these kids evolved into the amazing entity we know as The Grateful Dead.
-        user: hitmeister
-        platform: archive.org
-    -
-        comment: What's great about this set is that it is almost pre-Dead Grateful Dead. The sound they developed in the 1970s and 1980s isn't there. Instead were hear some stuff that's derivative of Bob Dylan's "Subterranean Homesick Blues" in "Can't Come Down," and a definite mid-1960s San Francisco psychedelic sound in "Mindbender.
-        user: AndrewMCM
-        platform: archive.org
-    -
-        comment: This find was a real treat. In addition to the Dead playin' Blues, Country, Folk, Rock, Jazz, \& Psychedelics...add 60s San Fran Pop, and it's top notch. My only save from 65. Can't Come Down & this spc Mindbender are amazing. I would've loved to have heard this break out in a show.
-        user: BawstonStranger
-        platform: archive.org
-    -
-        comment: verrrrrry nice
-        user: grateful247
-        platform: archive.org
-    -
-        comment: this is beeeyyyyyond belief! i can't remember how i found the archive, though i'm certain that god led me here. i was always sort of a brit-psychedelia fan before i started getting into the SF bands, so this is just a peppermint-candy french horn blowing dark star rainbows down my very spine!!! dig everything! dig it!
-        user: lemon lime partridge
-        platform: archive.org
-    -
-        comment: I agree that this is an interesting artifact of the pre-acid Dead. As such I give it five stars. To me it sounds like they had just been to a Byrds concert and were attempting to do their own version of that sound. Would love similar early accounts of other SF bands in their embryonic stage, esp. Airplane with Skip Spence, QMS, and Big Brother before Janis joined them. Its ok to dream isn't it?
-        user: asabajin
-        platform: archive.org
-    -
-        comment: Wow - I'm shocked by this recording! Who is this psychedelic folk-pop band?! Can't believe they ever sounded like this, and I'm so grateful for the listen. Five stars for sheer archival value.
-        user: AlligatorWine
-        platform: archive.org
-    -
-        comment: what a wonderful, wistful, windy passage back to sun dappled eucalyptus scented days- please check this out w/ the acid tests... if enough of us listen maybe we can build a ship and go back there...maybe we're there now... glorious, essential stuff- the root of our great tree...
-        user: oceantree
-        platform: archive.org
+    - hitmeister on archiveorg "This is fascinating from a historical perspective, but the music isn't something I'd want to listen to repeatedly. I don't know what I'd have thought if I'd heard this back in 1965, but in 2018, it sounds primitive, like a high school band who wrote a few songs and are messing around with them. It's hard to believe that these kids evolved into the amazing entity we know as The Grateful Dead."
+    - AndrewMCM on archive.org "What's great about this set is that it is almost pre-Dead Grateful Dead. The sound they developed in the 1970s and 1980s isn't there. Instead were hear some stuff that's derivative of Bob Dylan's "Subterranean Homesick Blues" in "Can't Come Down," and a definite mid-1960s San Francisco psychedelic sound in "Mindbender."
+    - BawstonStranger on archive.org "This find was a real treat. In addition to the Dead playin' Blues, Country, Folk, Rock, Jazz, \& Psychedelics...add 60s San Fran Pop, and it's top notch. My only save from 65. Can't Come Down & this spc Mindbender are amazing. I would've loved to have heard this break out in a show."
+    - grateful247 on archive.org "verrrrrry nice"
+    - lemon lime partridge on archive.org "this is beeeyyyyyond belief! i can't remember how i found the archive, though i'm certain that god led me here. i was always sort of a brit-psychedelia fan before i started getting into the SF bands, so this is just a peppermint-candy french horn blowing dark star rainbows down my very spine!!! dig everything! dig it!"
+    - asabajin on archive.org "I agree that this is an interesting artifact of the pre-acid Dead. As such I give it five stars. To me it sounds like they had just been to a Byrds concert and were attempting to do their own version of that sound. Would love similar early accounts of other SF bands in their embryonic stage, esp. Airplane with Skip Spence, QMS, and Big Brother before Janis joined them. Its ok to dream isn't it?"
+    - AlligatorWine on archive.org "Wow - I'm shocked by this recording! Who is this psychedelic folk-pop band?! Can't believe they ever sounded like this, and I'm so grateful for the listen. Five stars for sheer archival value."
+    - oceantree on archive.org "what a wonderful, wistful, windy passage back to sun dappled eucalyptus scented days- please check this out w/ the acid tests... if enough of us listen maybe we can build a ship and go back there...maybe we're there now... glorious, essential stuff- the root of our great tree..."
 tags: []
 ---
 

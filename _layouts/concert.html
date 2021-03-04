@@ -19,14 +19,14 @@ layout: default
         <img src="/assets/img/deadheads_around_the_web.png" alt="the logo" width="400">
     </div>
     <div style="margin: auto;">
-        {% for obj in page.community_thoughts %}
+        {% for comment in page.community_thoughts %}
         <div>
             <div class="comments">
-                <div>{{obj.comment}}</div>
+                <div>{{comment}}</div>
             </div>
-            <div style="text-align: right; font-size: large;">
+            <!-- <div style="text-align: right; font-size: large;">
                 - {{obj.user}}
-            </div>
+            </div> -->
         </div>
         {% endfor %}
     </div>
