@@ -1,8 +1,7 @@
 ---
 layout: concert
 comments: true
-show_date: 11/3/1965
-venue:
+show_date: 3/11/1965
 recording: https://archive.org/embed/gd65-11-03.sbd.vernon.9044.sbeok.shnf
 date_header_filename: 11-3-65_header.png
 community_thoughts:
