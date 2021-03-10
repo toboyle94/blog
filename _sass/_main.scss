@@ -207,6 +207,11 @@ main {
     margin-left: 2em;
 }
 
+.post-title {
+    text-align: center;
+    margin-right: 184px;
+}
+
 @media screen and (max-width: 600px) {
     .playlist {
         margin-left: -0.5em;
@@ -251,6 +256,10 @@ main {
         max-width: 80vw;
         margin: auto;
         margin-bottom: 32px;
+    }
+    .post-title {
+        text-align: center;
+        margin: auto;
     }
 
 }
