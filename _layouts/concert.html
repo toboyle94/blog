@@ -3,17 +3,23 @@ layout: default
 ---
 
 <section class="post">
-    {% if page.date_header_filename %}
-        <div class="post-header">
-            <img src="/assets/img/{{page.date_header_filename}}" alt="setlist header">
-        </div>
-    {% endif %}
+    <div class="post-header">
+        <img src="/assets/img/{{page.date_header_filename}}" alt="setlist header">
+    </div>
+    <div class="post-title">
+        <h1>
+            {{page.show_date | date: "%B %d, %Y"}}
+        </h1>
+        <h1>
+            {{page.title}}
+        </h1>
+    </div>
     <div>
         <iframe class="playlist" src="{{page.recording}}&playlist=1&autoplay=1" width="350"
         height="150" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true"
         allowfullscreen></iframe>
     </div>
-    Show recording (courtesy of archive.org)
+    <i>Show recording (courtesy of archive.org)</i>
 
     {{page.content}}
 
