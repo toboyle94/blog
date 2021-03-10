@@ -18,9 +18,9 @@ tags: []
 {:.underline-highlight5}
 ## INTRO
 
-Woah, partner, it’s 1965 and we’ve got just the Grateful Dead* tape for you!
+Woah, partner, it’s 1965 and we’ve got just the Grateful Dead tape for you!
 
-*So the context here is the band’s name is actually the Emergency Crew, neé the Warlocks and not quite yet the Grateful Dead. The Emergency Crew, called this for one night and one night only, are demoing their stuff for Autumn Records at Golden State Studios in San Francisco. 
+So the context here is the band’s name is actually the Emergency Crew, neé the Warlocks and not quite yet the Grateful Dead. The Emergency Crew, called this for one night and one night only, are demoing their stuff for Autumn Records at Golden State Studios in San Francisco. 
 
 It’s not a live show, nor is anything here going to transport you to another psychic plane and make you drop your jaw in awe and maybe even tear up a little—that’s for later. For now, this is the complimentary miso soup of Grateful Dead recordings...a little something before the main course to get you in the mood. 
 
